@@ -1,0 +1,22 @@
+{
+  "Posts": [
+    {
+      "id": "1",
+      "title": "MYfirst POSt",
+      "datetime": "jan 27,2024 2:58:59 PM",
+      "body": "Learning react js"
+    },
+    {
+      "id": "2",
+      "title": "MY 2nd POSt",
+      "datetime": "jan 2,2024 10:58:59 PM",
+      "body": "understand the truth of myself "
+    },
+    {
+      "id": "3",
+      "title": "My Third POSt",
+      "datetime": "jan 20,2024 2:58:59 PM",
+      "body": "Learning react js"
+    }
+  ]
+}
